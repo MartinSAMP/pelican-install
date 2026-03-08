@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Martin 2026**
 
-[![Stars](https://img.shields.io/github/stars/yourusername/pelican-installer?style=social)](https://github.com/MartinSAMP/pelican-install/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/pelican-installer?style=social)](https://github.com/MartinSAMP/pelican-install/network/members)
+[![Stars](https://img.shields.io/github/stars/MartinSAMP/pelican-install?style=social)](https://github.com/MartinSAMP/pelican-install/stargazers)
+[![Forks](https://img.shields.io/github/forks/MartinSAMP/pelican-install?style=social)](https://github.com/MartinSAMP/pelican-install/network/members)
 
 </div>
