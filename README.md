@@ -16,7 +16,6 @@
 ### Modern UI/UX
 - **Progress Bar Animation** - Real-time visual progress during installation
 - **Color-Coded Interface** - Easy to read with cyan, green, red, and yellow color coding
-- **Clean Header Design** - Professional branding with "MARTIN 2026"
 - **Interactive Menu** - User-friendly numbered selection system
 
 ### Auto SSL Configuration
