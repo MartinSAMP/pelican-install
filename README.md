@@ -61,7 +61,7 @@
 
 ```bash
 # Download the installer
-curl -sSL https://raw.githubusercontent.com/yourusername/pelican-installer/main/pelican_installer_v3.sh -o pelican_installer.sh
+curl -sSL https://raw.githubusercontent.com/MartinSAMP/pelican-install/main/install.sh -o install.sh
 
 # Make it executable
 chmod +x pelican_installer.sh
@@ -73,9 +73,9 @@ sudo ./pelican_installer.sh
 Or using wget:
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/pelican-installer/main/pelican_installer_v3.sh
-chmod +x pelican_installer_v3.sh
-sudo ./pelican_installer_v3.sh
+wget https://raw.githubusercontent.com/MartinSAMP/pelican-install/main/Install.sh
+chmod +x install.sh
+sudo ./install.sh
 ```
 
 ### 2. Select Installation Type
