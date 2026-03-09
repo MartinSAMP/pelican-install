@@ -64,10 +64,10 @@
 curl -sSL https://raw.githubusercontent.com/MartinSAMP/pelican-install/main/install.sh -o install.sh
 
 # Make it executable
-chmod +x pelican_installer.sh
+chmod +x install.sh
 
 # Run as root
-sudo ./pelican_installer.sh
+sudo ./install.sh
 ```
 
 Or using wget:
